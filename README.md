@@ -42,10 +42,13 @@ Imprime un resumen claro.
 
 ## 📁 Estructura del Proyecto
 
+```bah
+ArasakaProject3
 ├── Healthcare.csv
 ├── requirements.txt
 ├── ArasakaProject3.py
 └── README.md
+```
 
 
 - **Healthcare.csv** → Dataset principal  
