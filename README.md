@@ -95,6 +95,19 @@ Durante la ejecución se abrirán varias gráficas relacionadas con:
 **Importante:** Estas graficas se ejecutan una a una, para ver la siguiente toca cerrar la que esté abierta en ese momento.
 
 ---
+## 🧬 Dataset: Healthcare.csv
+
+El dataset tiene la siguiente estructura:
+
+|Columna|	Descripción
+|-|-|
+|Patient_ID|	ID único del paciente
+|Age|	Edad
+|Gender|	Género
+|Symptoms|	Lista de síntomas
+|Symptom_Count|	Número de síntomas
+|Disease|	Etiqueta a predecir
+---
 ## 📊 Modelos incluidos
 
 |Modelo|	Descripción|
